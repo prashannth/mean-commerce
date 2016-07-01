@@ -1,6 +1,13 @@
 # MEAN Market
 
-E-commerce Application built with the MEAN stack
+E-commerce shopping market application built with the MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)
+
+##Features
+1. Gulp SCSS compiling
+2. Category listing
+3. Product view
+4. Multi image product
+5. Intuitive cart
 
 
 ![Home Page](https://raw.githubusercontent.com/prashannth/mean-market/master/mean-market-screenshot1.png "Home Page")
@@ -38,6 +45,10 @@ It was created for demo so you cant purchase nothing there.
 ## Installation
 You will require node.js installed. Clone repository and run ```$ npm install``` then run ```$ bower install ```. When installation finished run ```$ node sever.js```. App is ready. Open http://localhost:3000/ in your browser.
 
+## Advancement Suggestions
+1. Payment gateways
+2. Admin console
+3. Social & User Authentication
 
 ## Bugs
 If you will find some bugs in source code you can submit the issue here https://github.com/prashannth/mean-market/issues

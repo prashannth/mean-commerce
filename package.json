@@ -1,8 +1,11 @@
 {
   "name": "mean-market",
+  "version": "1.0.0",
+  "description": "MEAN(MongoDB, ExpressJS, AngularJS & NodeJS) market e-commerce app",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "postinstall": "bower cache clean && bower install"
+    "postinstall": "bash ./post_install.sh"
   },
   "devDependencies": {
     "frisby": "git+https://github.com/vlucas/frisby.git",
@@ -36,5 +39,20 @@
     "multer": "^0.1.8",
     "nodemailer": "^1.4.0",
     "underscore": "^1.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashannth/mean-market"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "angular",
+    "mongodb",
+    "mean",
+    "e-commerce",
+    "shop",
+    "market"
+  ],
+  "author": "Prashannth Vijayakumar"
 }
