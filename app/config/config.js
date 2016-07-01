@@ -1,11 +1,11 @@
 config = {
     PORT: process.env.PORT || 3000,
-    DB: 'mongodb://root:123456@ds043952.mongolab.com:43952/shop',
+    DB: 'mongodb://admin:meanmarket@ds011495.mlab.com:11495/heroku_3dbf9l41',
     DB_LOCAL: 'mongodb://localhost/mean_shop_db',
     secret: 'thisisverysevuresecretkey',
     mailer: {
-        username: 'hipsta.brands@gmail.com',
-        password: '9BK&wbwd)aso9sZQ.cd?='
+        username: 'username@domain.com',
+        password: 'password'
     }
 };
 
