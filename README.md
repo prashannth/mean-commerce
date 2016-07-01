@@ -7,11 +7,10 @@ E-commerce shopping market application built with the MEAN stack (MongoDB, Expre
 2. Category listing
 3. Product view
 4. Multi image product
-5. Intuitive cart
-
-
+5. Responsive design
+6. Flex Home Page
 ![Home Page](https://raw.githubusercontent.com/prashannth/mean-market/master/mean-market-screenshot1.png "Home Page")
-
+7. Intuitive cart
 ![Product Page](https://raw.githubusercontent.com/prashannth/mean-market/master/mean-market-screenshot2.png "Product Page")
 
 ## Node v0.12.x
