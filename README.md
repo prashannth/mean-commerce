@@ -2,6 +2,7 @@
 
 E-commerce shopping market application built with the MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)
 
+
 ##Features
 1. Gulp SCSS compiling
 2. Category listing
@@ -9,9 +10,12 @@ E-commerce shopping market application built with the MEAN stack (MongoDB, Expre
 4. Multi image product
 5. Responsive design
 6. Flex Home Page
+
 ![Home Page](https://raw.githubusercontent.com/prashannth/mean-market/master/mean-market-screenshot1.png "Home Page")
 7. Intuitive cart
+
 ![Product Page](https://raw.githubusercontent.com/prashannth/mean-market/master/mean-market-screenshot2.png "Product Page")
+
 
 ## Node v0.12.x
 This installation covers nix like systems (OS X and Ubuntu/Linux). Windows? check out https://github.com/coreybutler/nvm-windows
@@ -41,13 +45,16 @@ npm install -g yo
 At https://mean-market.herokuapp.com/ you can see already launched test shop. It's a sample of shop for sell clothes.
 It was created for demo so you cant purchase nothing there.
 
+
 ## Installation
 You will require node.js installed. Clone repository and run ```$ npm install``` then run ```$ bower install ```. When installation finished run ```$ node sever.js```. App is ready. Open http://localhost:3000/ in your browser.
+
 
 ## Advancement Suggestions
 1. Payment gateways
 2. Admin console
 3. Social & User Authentication
+
 
 ## Bugs
 If you will find some bugs in source code you can submit the issue here https://github.com/prashannth/mean-market/issues
