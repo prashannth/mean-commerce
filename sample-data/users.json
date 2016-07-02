@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("558e95fe9c5fcb7ab56bcf65"), 
+    "password" : "123456", 
+    "admin" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("558e9a3962040a24ba072144"), 
+    "password" : "123456", 
+    "admin" : true, 
+    "__v" : NumberInt(0)
+}

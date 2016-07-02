@@ -1,0 +1,2274 @@
+{ 
+    "_id" : ObjectId("55757da8974a516b52827d31"), 
+    "sku" : "99823", 
+    "title" : "Black cardigan", 
+    "description" : [
+        "Cotton-rich knit", 
+        "Lightweight finish ", 
+        "Deep v-neckline", 
+        "Belted waist", 
+        "Cropped sleeves ", 
+        "Relaxed fit ", 
+        "Machine wash", 
+        "58% Cotton, 42% Viscose"
+    ], 
+    "brand" : "Trends Brands Base", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Black cardigan Trends Brands Base"
+    }, 
+    "images" : [
+        "uploads/21435580814096.jpg", 
+        "uploads/11435580814105.jpg", 
+        "uploads/31435580814112.jpg"
+    ], 
+    "details" : {
+        "color" : "black", 
+        "structure" : [
+            "58% Cotton", 
+            "42% Viscose"
+        ], 
+        "sizes" : [
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(199), 
+        "oldPrice" : NumberInt(390)
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("557583584cd5c4f257c24e90"), 
+    "sku" : "103085", 
+    "title" : "Red dress", 
+    "description" : [
+        "Silky-look fabric", 
+        "High neckline", 
+        "Pussy bow tie with keyhole detail", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "100% Viscose", 
+        "Our model wears a UK 8/EU 34/US 4 and is 168 cm/5'6” tall"
+    ], 
+    "brand" : "Tutto Bene", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Red dress Tutto Bene"
+    }, 
+    "images" : [
+        "uploads/11435580211219.jpg", 
+        "uploads/21435580211223.jpg", 
+        "uploads/31435580211224.jpg"
+    ], 
+    "details" : {
+        "color" : "red", 
+        "structure" : [
+            "100% Viscose"
+        ], 
+        "sizes" : [
+            "42", 
+            "44", 
+            "46", 
+            "48"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(45), 
+        "oldPrice" : NumberInt(59), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("557585304cd5c4f257c24e93"), 
+    "sku" : "103073", 
+    "title" : "Corel skirt", 
+    "description" : [
+        "Lightweight woven fabric", 
+        "Flattering high rise", 
+        "Wrap front", 
+        "Slim fit - cut closely to the body", 
+        "48% Polyester, 48% Viscose, 4% Elastane", 
+        "Machine wash", 
+        "Our model wears a UK 8/EU 34/US 4 and is 175cm/5'9 tall"
+    ], 
+    "brand" : "Tutto Bene", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Coral skirt Tutto Bene"
+    }, 
+    "images" : [
+        "uploads/11435582127737.jpg", 
+        "uploads/21435582127740.jpg", 
+        "uploads/31435582127741.jpg"
+    ], 
+    "details" : {
+        "color" : "coral", 
+        "structure" : [
+            "48% Polyester", 
+            "48% Viscose", 
+            "4% Elastane"
+        ], 
+        "sizes" : [
+            "42", 
+            "44", 
+            "46", 
+            "40"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(39), 
+        "oldPrice" : null, 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5575858a4cd5c4f257c24e94"), 
+    "sku" : "103243", 
+    "title" : "Black skirt", 
+    "description" : [
+        "Soft-touch jersey", 
+        "Flattering high rise", 
+        "Stretch waistband", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash", 
+        "95% Viscose, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175cm/5'9 tall"
+    ], 
+    "brand" : "Trends Brands", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Black srirt Trends Brands"
+    }, 
+    "images" : [
+        "uploads/11435582212712.jpg", 
+        "uploads/21435582212716.jpg", 
+        "uploads/31435582212717.jpg"
+    ], 
+    "details" : {
+        "color" : "black", 
+        "structure" : [
+            "95% Viscose", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(39), 
+        "oldPrice" : NumberInt(59), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("557586184cd5c4f257c24e95"), 
+    "sku" : "102568", 
+    "title" : "Pink skirt", 
+    "description" : [
+        "Smooth woven fabric", 
+        "Clip buckle waist belt", 
+        "Gold-tone zip front", 
+        "Shirred stretch panel to reverse", 
+        "Close cut bodycon fit", 
+        "Machine wash", 
+        "95% Polyester, 5% Cotton", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175 cm/5'9", 
+        "tall"
+    ], 
+    "brand" : "VIKTORIA IRBAIEVA", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Pink skirt VIKTORIA IRBAIEVA"
+    }, 
+    "images" : [
+        "uploads/11435582305320.jpg", 
+        "uploads/21435582305321.jpg", 
+        "uploads/31435582305322.jpg"
+    ], 
+    "details" : {
+        "color" : "pink", 
+        "structure" : [
+            "95% Polyester, 5% Cotton"
+        ], 
+        "sizes" : [
+            "42", 
+            "44", 
+            "46", 
+            "40"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(52), 
+        "oldPrice" : null, 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("557587474cd5c4f257c24e96"), 
+    "sku" : "102569", 
+    "title" : "Black skirt", 
+    "description" : [
+        "Mid-weight woven fabric", 
+        "Fully lined", 
+        "High-rise waist", 
+        "Wrap design", 
+        "Grosgrain tie detail", 
+        "Asymmetric hem", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash", 
+        "67% Cotton, 17% Acrylic, 12% Viscose, 4% Polyester", 
+        "Our model wears a UK 8/EU 36/US 4"
+    ], 
+    "brand" : "VIKTORIA IRBAIEVA", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Black skirt VIKTORIA IRBAIEVA"
+    }, 
+    "images" : [
+        "uploads/11435582428645.jpg", 
+        "uploads/21435582428651.jpg", 
+        "uploads/31435582428652.jpg"
+    ], 
+    "details" : {
+        "color" : "black", 
+        "structure" : [
+            "67% Cotton", 
+            "17% Acrylic", 
+            "12% Viscose, 4%"
+        ], 
+        "sizes" : [
+            "42", 
+            "44", 
+            "46", 
+            ""
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(47), 
+        "oldPrice" : null, 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("557587e04cd5c4f257c24e97"), 
+    "sku" : "100521", 
+    "title" : "Beige cardigan", 
+    "description" : [
+        "Knit fabric ", 
+        "Chunky ribbed roll neck ", 
+        "Side splits to hem ", 
+        "Ribbed cuffs", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash", 
+        "Our model wears a UK 8/EU 36/US 4 and is 170 cm/5'7 tall"
+    ], 
+    "brand" : "LOVA", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Beige cardigan LOVA"
+    }, 
+    "images" : [
+        "uploads/11435580913862.jpg", 
+        "uploads/21435580913878.jpg", 
+        "uploads/31435580913904.jpg"
+    ], 
+    "details" : {
+        "color" : "beige", 
+        "structure" : [
+            "58% Cotton", 
+            "42% Viscose"
+        ], 
+        "sizes" : [
+            "", 
+            "", 
+            "46", 
+            "48"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(44), 
+        "oldPrice" : null, 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("557588534cd5c4f257c24e98"), 
+    "sku" : "94474", 
+    "title" : "Blue cardigan", 
+    "description" : [
+        "Chunky, ribbed knit ", 
+        "V-neckline", 
+        "Side splits to the hem ", 
+        "Dipped back hem ", 
+        "Regular fit - true to size", 
+        "Machine wash ", 
+        "100% Acrylic"
+    ], 
+    "brand" : "Minkpink", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Blue cardigan Minkpink"
+    }, 
+    "images" : [
+        "uploads/11435581042830.jpg", 
+        "uploads/21435581042886.jpg", 
+        "uploads/31435581042918.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "100% Acrylic"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(31), 
+        "oldPrice" : NumberInt(39), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("557588bc4cd5c4f257c24e99"), 
+    "sku" : "97788", 
+    "title" : "Blue cardigan", 
+    "description" : [
+        "Mid-weight, thick knit", 
+        "Fluffy wool-mix", 
+        "V-neckline", 
+        "Ribbed trims", 
+        "Oversized fit - falls generously over the body", 
+        "Machine wash", 
+        "38% Acrylic, 34% Nylon, 13% Mohair Wool, 12% Wool, 3% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 180cm/5'11 tall"
+    ], 
+    "brand" : "Wolf Empire", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Blue cardigan Wolf Empire"
+    }, 
+    "images" : [
+        "uploads/11435581163068.jpg", 
+        "uploads/21435581163087.jpg", 
+        "uploads/31435581163114.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "38% Acrylic", 
+            "34% Nylon", 
+            "13% Mohair Wool", 
+            "12% Wool", 
+            "3% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            ""
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(55), 
+        "oldPrice" : null, 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55912fce818c3a2a710e7e02"), 
+    "sku" : "104113", 
+    "title" : "Blue dress", 
+    "description" : [
+        "Smooth woven fabric", 
+        "Soft-touch finish", 
+        "All-over fabric ", 
+        "Deep plunge neckline", 
+        "Tied detail to front", 
+        "Bell sleeves ", 
+        "Gold-tone sequin embellishment ", 
+        "Slim fit - cut closely to the body", 
+        "Hand wash", 
+        "100% Tencel Lyocell", 
+        "Our model wears a UK S/EU S/US XS and is 173 cm/5'8” tall"
+    ], 
+    "brand" : "CHIC", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Blue dress CHIC"
+    }, 
+    "images" : [
+        "uploads/11435578318764.jpg", 
+        "uploads/21435578318768.jpg", 
+        "uploads/31435578318773.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "100% Tencel Lyocell"
+        ], 
+        "sizes" : [
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(110), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5591308a818c3a2a710e7e03"), 
+    "sku" : "103869", 
+    "title" : "Blue dress", 
+    "description" : [
+        "Ribbed stretch knit fabric", 
+        "High neckline", 
+        "Dropped armholes", 
+        "Swing shape", 
+        "Oversized fit - falls generously over the body", 
+        "Machine wash", 
+        "95% Viscose, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 168 cm/5'6” tall"
+    ], 
+    "brand" : "Tutto Bene", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Blue dress Tutto Bene"
+    }, 
+    "images" : [
+        "uploads/11435578506754.jpg", 
+        "uploads/21435578506761.jpg", 
+        "uploads/31435578506858.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "95% Viscose", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "42", 
+            "44", 
+            "46", 
+            "40"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(78), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559130e0818c3a2a710e7e04"), 
+    "sku" : "103867", 
+    "title" : "Yellow dress", 
+    "description" : [
+        "Smooth, woven fabric ", 
+        "Round neckline ", 
+        "Gold-tone button detailing ", 
+        "Gold-tone zip back fastening ", 
+        "Regular fit - true to size ", 
+        "Machine wash", 
+        "70% Polyester, 25% Viscose, 5% Elastane ", 
+        "Our model wears a UK 8/EU 36/US 4 and is 173 cm/5'8"
+    ], 
+    "brand" : "Tutto Bene", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Yellow dress Tutto Bene"
+    }, 
+    "images" : [
+        "uploads/11435578592333.jpg", 
+        "uploads/21435578592346.jpg", 
+        "uploads/31435578592355.jpg"
+    ], 
+    "details" : {
+        "color" : "Yellow", 
+        "structure" : [
+            "70% Polyester", 
+            "25% Viscose", 
+            "5% Elastane "
+        ], 
+        "sizes" : [
+            "42", 
+            "44", 
+            "46", 
+            "40"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(134), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913196818c3a2a710e7e05"), 
+    "sku" : "102236", 
+    "title" : "Yellow dress", 
+    "description" : [
+        "Stretch cotton jersey", 
+        "Round neckline", 
+        "Racer cut", 
+        "Close cut bodycon fit", 
+        "Machine wash", 
+        "96% Cotton, 4% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175cm/5'9” tall"
+    ], 
+    "brand" : "Personage", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Yellow dress Personage"
+    }, 
+    "images" : [
+        "uploads/21435578774920.jpg", 
+        "uploads/11435578774911.jpg", 
+        "uploads/31435578774921.jpg"
+    ], 
+    "details" : {
+        "color" : "yellow", 
+        "structure" : [
+            "98% хлопок", 
+            "2% эластан"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(78), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5591327e818c3a2a710e7e06"), 
+    "sku" : "102618", 
+    "title" : "White dress", 
+    "description" : [
+        "Silky-feel stretch fabric", 
+        "Slash neckline", 
+        "Detachable waist belt", 
+        "Extreme side thigh split", 
+        "Open back", 
+        "Pull-on design", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash", 
+        "95% Polyester, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 178 cm/5'10” tall"
+    ], 
+    "brand" : "Trends Brands Base", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "White dress Trends Brands Base"
+    }, 
+    "images" : [
+        "uploads/11435579006774.jpg", 
+        "uploads/21435579006779.jpg", 
+        "uploads/31435579006787.jpg"
+    ], 
+    "details" : {
+        "color" : "print", 
+        "structure" : [
+            "95% Polyester", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(43), 
+        "oldPrice" : NumberInt(65), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559132de818c3a2a710e7e07"), 
+    "sku" : "102242", 
+    "title" : "White dress", 
+    "description" : [
+        "Lined silky fabric", 
+        "High neckline", 
+        "Fitted waistband", 
+        "Open back with strappy detail", 
+        "Zip back closure", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "95% Polyester, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175 cm/5'9” tall"
+    ], 
+    "brand" : "Personage", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "White dress Personage"
+    }, 
+    "images" : [
+        "uploads/11435579102696.jpg", 
+        "uploads/21435579102698.jpg", 
+        "uploads/31435579102700.jpg"
+    ], 
+    "details" : {
+        "color" : "white", 
+        "structure" : [
+            "95% Polyester", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(179), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913356818c3a2a710e7e08"), 
+    "sku" : "103086", 
+    "title" : "Black dress", 
+    "description" : [
+        "Mid-weight, non-stretch denim", 
+        "V-neckline", 
+        "Button placket", 
+        "Side pockets", 
+        "Button flap pockets", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "100% Cotton", 
+        "Our model wears a UK 18/EU 46/US 14 and is 175cm/5'9", 
+        "tall"
+    ], 
+    "brand" : "Tutto Bene", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Black dress Tutto Bene"
+    }, 
+    "images" : [
+        "uploads/21435579222300.jpg", 
+        "uploads/11435579222295.jpg", 
+        "uploads/31435579222301.jpg"
+    ], 
+    "details" : {
+        "color" : "black", 
+        "structure" : [
+            "100% Cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(67), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559133c5818c3a2a710e7e09"), 
+    "sku" : "102006", 
+    "title" : "Green dress", 
+    "description" : [
+        "Pure cotton denim", 
+        "Round neckline", 
+        "Cut-out back", 
+        "Zip closure to reverse", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "100% Cotton", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175 cm/5'9” tall"
+    ], 
+    "brand" : "Trends Brands", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Green dress Trends Brands"
+    }, 
+    "images" : [
+        "uploads/11435579333732.jpg", 
+        "uploads/21435579333745.jpg", 
+        "uploads/31435579333747.jpg"
+    ], 
+    "details" : {
+        "color" : "green", 
+        "structure" : [
+            "100% Cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(112), 
+        "oldPrice" : NumberInt(140), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913420818c3a2a710e7e0a"), 
+    "sku" : "102013", 
+    "title" : "White dress", 
+    "description" : [
+        "Lined woven fabric", 
+        "Round neckline", 
+        "Lace detail top and sleeves", 
+        "Zip fastening to back ", 
+        "Regular fit - true to size ", 
+        "Machine wash", 
+        "100% Polyester ", 
+        "Our model wears a UK 8/EU 36/US 4 and is 173cm/5'8", 
+        "tall"
+    ], 
+    "brand" : "Trends Brands", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "White dress Trends Brands"
+    }, 
+    "images" : [
+        "uploads/11435579424691.jpg", 
+        "uploads/21435579424695.jpg", 
+        "uploads/31435579424701.jpg"
+    ], 
+    "details" : {
+        "color" : "white", 
+        "structure" : [
+            "100% Polyester"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(229), 
+        "oldPrice" : NumberInt(319), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559134bc818c3a2a710e7e0b"), 
+    "sku" : "102835", 
+    "title" : "Blue dress", 
+    "description" : [
+        "Lightweight woven fabric", 
+        "V-neckline", 
+        "Double strap design", 
+        "Racer style back", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "100% Viscose", 
+        "Our model wears a UK 8/EU 34/US 4 and is 176cm/5'9.5", 
+        "tall"
+    ], 
+    "brand" : "Gold Chic Chili", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Blue dress Gold Chic Chili"
+    }, 
+    "images" : [
+        "uploads/11435579580247.jpg", 
+        "uploads/21435579580252.jpg", 
+        "uploads/31435579580253.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "100% Viscose"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(79), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913507818c3a2a710e7e0c"), 
+    "sku" : "103742", 
+    "title" : "Blue dress", 
+    "description" : [
+        "Crochet lace ", 
+        "Patchwork design", 
+        "Fringing to cuffs", 
+        "Jersey back with keyhole detail", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "100% Cotton", 
+        "Our model wears a UK 8/EU 36/US 4 and is 180 cm/5'11", 
+        "tall"
+    ], 
+    "brand" : "Gold Chic Chili", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Blue dress Gold Chic Chili"
+    }, 
+    "images" : [
+        "uploads/11435579655387.jpg", 
+        "uploads/21435579655393.jpg", 
+        "uploads/31435579655401.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "100% Cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(80), 
+        "oldPrice" : NumberInt(90), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913566818c3a2a710e7e0d"), 
+    "sku" : "103701", 
+    "title" : "Yellow dress", 
+    "description" : [
+        "Stretch fabric", 
+        "V-neckline", 
+        "Wrap front", 
+        "Cut-out sides", 
+        "Thigh split", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash", 
+        "95% Polyester, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175cm/5'9", 
+        "tall"
+    ], 
+    "brand" : "Clabin", 
+    "type" : "Dresses", 
+    "seo" : {
+        "title" : "Yellow dress Clabin"
+    }, 
+    "images" : [
+        "uploads/21435579750149.jpg", 
+        "uploads/11435579750146.jpg", 
+        "uploads/31435579750149.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "95% Polyester", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(6990), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913941818c3a2a710e7e12"), 
+    "sku" : "92649", 
+    "title" : "Black cardigan", 
+    "description" : [
+        "Mid-weight knit", 
+        "High boat neckline ", 
+        "Semi sheer sleeves ", 
+        "Side split ", 
+        "Ribbed trims ", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "57% Acrylic, 43% Cotton", 
+        "Our model wears a UK 8/EU 36/US 4 and is 178 cm/5'10 tall"
+    ], 
+    "brand" : "VIKTORIA IRBAIEVA", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Black cardigan VIKTORIA IRBAIEVA"
+    }, 
+    "images" : [
+        "uploads/21435580737185.jpg", 
+        "uploads/31435580737190.jpg", 
+        "uploads/11435580737194.jpg"
+    ], 
+    "details" : {
+        "color" : "black", 
+        "structure" : [
+            "57% Acrylic", 
+            "43% Cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(39), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913ba0818c3a2a710e7e17"), 
+    "sku" : "100522", 
+    "title" : "Gray cardigan", 
+    "description" : [
+        "Soft-touch knit", 
+        "Lightweight design ", 
+        "Roll neckline", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "53% Polyester, 21% Nylon, 20% Acrylic, 6% Wool"
+    ], 
+    "brand" : "LOVA", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Gray cardigan LOVA"
+    }, 
+    "images" : [
+        "uploads/21435581344456.jpg", 
+        "uploads/11435581344468.jpg", 
+        "uploads/31435581344482.jpg"
+    ], 
+    "details" : {
+        "color" : "gray", 
+        "structure" : [
+            "53% Polyester", 
+            "21% Nylon", 
+            "20% Acrylic", 
+            "6% Wool"
+        ], 
+        "sizes" : [
+            "40", 
+            "42"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(39), 
+        "oldPrice" : NumberInt(49), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913bfa818c3a2a710e7e18"), 
+    "sku" : "94461", 
+    "title" : "Red cardigan", 
+    "description" : [
+        "Cotton-rich knit", 
+        "Open front", 
+        "Cap sleeves", 
+        "Belted waist", 
+        "Side splits", 
+        "Hip pockets", 
+        "Longline design ", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "54% Cotton, 46% Acrylic", 
+        "Our model wears a UK 8/EU 36/US 4 and is 176 cm/5'9.5 tall"
+    ], 
+    "brand" : "Minkpink", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Red cardigan Minkpink"
+    }, 
+    "images" : [
+        "uploads/21435581434503.jpg", 
+        "uploads/11435581434510.jpg", 
+        "uploads/31435581434533.jpg"
+    ], 
+    "details" : {
+        "color" : "red", 
+        "structure" : [
+            "54% Cotton", 
+            "46% Acrylic"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(39), 
+        "oldPrice" : NumberInt(49), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913c69818c3a2a710e7e19"), 
+    "sku" : "91744", 
+    "title" : "Gray cardigan", 
+    "description" : [
+        "Lightweight woven fabric", 
+        "Open front", 
+        "Cropped sleeves", 
+        "Loose fit - falls loosely over the body ", 
+        "Machine wash", 
+        "80% Viscose, 20% Polyamide"
+    ], 
+    "brand" : "Dar'ya Chernysheva", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Gray cardigan Dar'ya Chernysheva"
+    }, 
+    "images" : [
+        "uploads/21435581545627.jpg", 
+        "uploads/11435581545643.jpg", 
+        "uploads/31435581545654.jpg"
+    ], 
+    "details" : {
+        "color" : "gray", 
+        "structure" : [
+            "80% Viscose", 
+            "20% Polyamide"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(90), 
+        "oldPrice" : NumberInt(110), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913cce818c3a2a710e7e1a"), 
+    "sku" : "95483", 
+    "title" : "White cardigan", 
+    "description" : [
+        "Lightweight woven fabric", 
+        "Open front", 
+        "Pleated detailing", 
+        "Relaxed fit", 
+        "100% Polyester", 
+        "Our model wears a UK S/EU S/US XS and is 180 cm/5'11 tall"
+    ], 
+    "brand" : "Trends Brands", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "White cardigan Trends Brands"
+    }, 
+    "images" : [
+        "uploads/21435581646748.jpg", 
+        "uploads/11435581646752.jpg", 
+        "uploads/31435581646759.jpg"
+    ], 
+    "details" : {
+        "color" : "white", 
+        "structure" : [
+            "100% Polyester"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(69), 
+        "oldPrice" : NumberInt(90), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913d7e818c3a2a710e7e1b"), 
+    "sku" : "97817", 
+    "title" : "Brown cardigan", 
+    "description" : [
+        "Lightweight ribbed knit", 
+        "Turtle neckline", 
+        "Cropped sleeves", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "62% Viscose, 38% Nylon"
+    ], 
+    "brand" : "Trends Brands", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Brown cardigan Trends Brands"
+    }, 
+    "images" : [
+        "uploads/11435581822077.jpg", 
+        "uploads/21435581822094.jpg", 
+        "uploads/31435581822110.jpg"
+    ], 
+    "details" : {
+        "color" : "brown", 
+        "structure" : [
+            "62% Viscose", 
+            "38% Nylon"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(22), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913df8818c3a2a710e7e1c"), 
+    "sku" : "97878", 
+    "title" : "Color cardigan", 
+    "description" : [
+        "Cotton-rich knit", 
+        "Ribbed texture ", 
+        "Round neckline", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash", 
+        "87% Cotton, 13% Nylon"
+    ], 
+    "brand" : "Trends Brands", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "Color cardigan Trends Brands"
+    }, 
+    "images" : [
+        "uploads/11435581944396.jpg", 
+        "uploads/21435581944406.jpg", 
+        "uploads/31435581944411.jpg"
+    ], 
+    "details" : {
+        "color" : "color", 
+        "structure" : [
+            "87% Cotton", 
+            "13% Nylon"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(90), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55913e59818c3a2a710e7e1d"), 
+    "sku" : "88838", 
+    "title" : "White cardigan", 
+    "description" : [
+        "Mid-weight, soft-touch chunky knit", 
+        "Open front", 
+        "Side pockets", 
+        "Relaxed fit", 
+        "Machine wash", 
+        "100% Acrylic"
+    ], 
+    "brand" : "The White Pepper", 
+    "type" : "Jumpers & Cardigans", 
+    "seo" : {
+        "title" : "White cardigan The White Pepper"
+    }, 
+    "images" : [
+        "uploads/31435582041009.jpg", 
+        "uploads/41435582041012.jpg", 
+        "uploads/11435582041015.jpg", 
+        "uploads/21435582041016.jpg"
+    ], 
+    "details" : {
+        "color" : "white", 
+        "structure" : [
+            "100% Acrylic"
+        ], 
+        "sizes" : [
+            "40"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(150), 
+        "oldPrice" : NumberInt(210), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559140dfa73ac20f8ab0c166"), 
+    "sku" : "103871", 
+    "title" : "Blue skirt", 
+    "description" : [
+        "Lightweight, non-stretch denim", 
+        "Soft-touch finish", 
+        "Light wash", 
+        "High-rise waist", 
+        "Button through front", 
+        "Rose gold-tone hardware", 
+        "A-line shape", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "100% Cotton", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175cm/5'9 tall"
+    ], 
+    "brand" : "Tutto Bene", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Blue skirt Tutto Bene"
+    }, 
+    "images" : [
+        "uploads/11435582687190.jpg", 
+        "uploads/21435582687196.jpg", 
+        "uploads/31435582687199.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "100% Cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(20), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914116a73ac20f8ab0c167"), 
+    "sku" : "103872", 
+    "title" : "Red skirt", 
+    "description" : [
+        "Lightweight scuba-style fabric", 
+        "Unlined design ", 
+        "Belted waistband", 
+        "Zip back closure", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "95% Polyester, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175 cm/5'9 tall"
+    ], 
+    "brand" : "Tutto Bene", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Red skirt Tutto Bene"
+    }, 
+    "images" : [
+        "uploads/11435582742107.jpg", 
+        "uploads/21435582742110.jpg", 
+        "uploads/31435582742113.jpg"
+    ], 
+    "details" : {
+        "color" : "red", 
+        "structure" : [
+            "95% Polyester", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(90), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559141aca73ac20f8ab0c168"), 
+    "sku" : "103074", 
+    "title" : "Blue skirt", 
+    "description" : [
+        "Pure cotton", 
+        "Ribbed texture", 
+        "Zip fastening", 
+        "Silver tone eyelet trim", 
+        "Regular fit - true to size", 
+        "Hand wash", 
+        "100% Cotton", 
+        "Our model wears a UK S/EU S/US XS and is 175cm/5'9 tall"
+    ], 
+    "brand" : "Tutto Bene", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Blue skirts Tutto Bene"
+    }, 
+    "images" : [
+        "uploads/11435582892144.jpg", 
+        "uploads/21435582892149.jpg", 
+        "uploads/31435582892154.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "100% Cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(90), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5591420da73ac20f8ab0c169"), 
+    "sku" : "101890", 
+    "title" : "Pink skirt", 
+    "description" : [
+        "Pure, breathable cotton", 
+        "Space ship print design", 
+        "High-rise waistband", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash ", 
+        "100% Cotton", 
+        "Our model wears a UK 8/EU 36/US 4 and is 178 cm/5'10 tall", 
+        "Products vary due to reclaimed nature"
+    ], 
+    "brand" : "CHIC", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Pink skirt CHIC"
+    }, 
+    "images" : [
+        "uploads/11435582989510.jpg", 
+        "uploads/21435582989523.jpg", 
+        "uploads/31435582989535.jpg"
+    ], 
+    "details" : {
+        "color" : "pink", 
+        "structure" : [
+            "100% Cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(170), 
+        "oldPrice" : NumberInt(220), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914263a73ac20f8ab0c16a"), 
+    "sku" : "102880", 
+    "title" : "Gray skirt", 
+    "description" : [
+        "Smooth woven fabric", 
+        "Wrap design", 
+        "Zip back fastening ", 
+        "Flattering A-line shape", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash", 
+        "76% Polyester, 18% Viscose, 6% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 173 cm/5'8 tall"
+    ], 
+    "brand" : "Yudashkin Jeans", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Gray skirt Yudashkin Jeans"
+    }, 
+    "images" : [
+        "uploads/11435583075782.jpg", 
+        "uploads/21435583075786.jpg", 
+        "uploads/31435583075789.jpg"
+    ], 
+    "details" : {
+        "color" : "gray", 
+        "structure" : [
+            "76% Polyester", 
+            "18% Viscose", 
+            "6% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(48), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559142afa73ac20f8ab0c16b"), 
+    "sku" : "101554", 
+    "title" : "Color skirt", 
+    "description" : [
+        "Woven fabric", 
+        "High-rise waist", 
+        "A-line shape", 
+        "Scallop hem", 
+        "Side zip fastening", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "Our model wears a UK 8/EU 36/US 4 and is 173 cm/5'8 tall"
+    ], 
+    "brand" : "Clabin", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Color skirts Clabin"
+    }, 
+    "images" : [
+        "uploads/11435583150999.jpg", 
+        "uploads/21435583151024.jpg", 
+        "uploads/31435583151040.jpg"
+    ], 
+    "details" : {
+        "color" : "color", 
+        "structure" : [
+            "95% cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(59), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914335a73ac20f8ab0c16c"), 
+    "sku" : "102062", 
+    "title" : "Brown skirt", 
+    "description" : [
+        "Smooth stretch fabric", 
+        "Scalloped hem", 
+        "Kick split to reverse", 
+        "Zip back closure", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "75% Polyester, 19% Viscose, 6% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175 cm/5'9 tall"
+    ], 
+    "brand" : "Trends Brands", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Brown skirt Trends Brands"
+    }, 
+    "images" : [
+        "uploads/11435583285884.jpg", 
+        "uploads/21435583285893.jpg", 
+        "uploads/31435583285899.jpg", 
+        "uploads/41435583285905.jpg", 
+        "uploads/51435583285918.jpg"
+    ], 
+    "details" : {
+        "color" : "brown", 
+        "structure" : [
+            "75% Polyester", 
+            "19% Viscose", 
+            "6% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(37), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559143a0a73ac20f8ab0c16d"), 
+    "sku" : "102105", 
+    "title" : "Blue skirt", 
+    "description" : [
+        "Soft-touch, stretch jersey", 
+        "Stretch waistband", 
+        "Kick slit to reverse", 
+        "Close cut bodycon fit", 
+        "Machine wash", 
+        "95% Cotton, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 178cm/5'10 tall"
+    ], 
+    "brand" : "Trends Brands", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Blue skirt Trends Brands"
+    }, 
+    "images" : [
+        "uploads/11435583392624.jpg", 
+        "uploads/21435583392630.jpg", 
+        "uploads/31435583392633.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "95% Cotton", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(29), 
+        "oldPrice" : NumberInt(39), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559143f7a73ac20f8ab0c16e"), 
+    "sku" : "102881", 
+    "title" : "Gray skirt", 
+    "description" : [
+        "Stretch knit fabric", 
+        "Textured finish", 
+        "Close cut bodycon fit", 
+        "Hand wash", 
+        "95% Viscose, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 178 cm/5'10 tall"
+    ], 
+    "brand" : "Yudashkin Jeans", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Gray skirt Yudashkin Jeans"
+    }, 
+    "images" : [
+        "uploads/11435583479953.jpg", 
+        "uploads/21435583479954.jpg", 
+        "uploads/31435583479958.jpg"
+    ], 
+    "details" : {
+        "color" : "gray", 
+        "structure" : [
+            "95% Viscose", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(29), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914447a73ac20f8ab0c16f"), 
+    "sku" : "89009", 
+    "title" : "Pink skirt", 
+    "description" : [
+        "Stretch ribbed fabric", 
+        "Stretch waistband", 
+        "Wrap front", 
+        "Close cut bodycon fit", 
+        "Machine wash", 
+        "95% Polyester, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 178 cm/5'10 tall"
+    ], 
+    "brand" : "May rose", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Pink skirt Майская роза"
+    }, 
+    "images" : [
+        "uploads/11435583559818.jpg", 
+        "uploads/21435583559844.jpg", 
+        "uploads/31435583559851.jpg"
+    ], 
+    "details" : {
+        "color" : "pink", 
+        "structure" : [
+            "95% Polyester", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(29), 
+        "oldPrice" : NumberInt(62), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914558a73ac20f8ab0c170"), 
+    "sku" : "64187", 
+    "title" : "Yellow skirt", 
+    "description" : [
+        "Lined, floral lace", 
+        "High-rise", 
+        "Fitted, elasticated waistband", 
+        "Scallop hem", 
+        "Regular fit - true to size", 
+        "Hand wash", 
+        "100% Polyester", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175cm/5'9 tall"
+    ], 
+    "brand" : "N/TICE", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Yellow skirt N/TICE"
+    }, 
+    "images" : [
+        "uploads/11435583832168.jpg", 
+        "uploads/21435583832170.jpg", 
+        "uploads/31435583832172.jpg"
+    ], 
+    "details" : {
+        "color" : "yellow", 
+        "structure" : [
+            "100% Polyester"
+        ], 
+        "sizes" : [
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(21), 
+        "oldPrice" : NumberInt(62), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559145d4a73ac20f8ab0c171"), 
+    "sku" : "91909", 
+    "title" : "Green skirt", 
+    "description" : [
+        "Smooth, stretch jersey ", 
+        "All-over-print ", 
+        "High-rise stretch waist ", 
+        "Thigh split ", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash", 
+        "91% Polyester, 9% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175 cm/5'9 tall"
+    ], 
+    "brand" : "Trends Brands", 
+    "type" : "Skirts", 
+    "seo" : {
+        "title" : "Green skirt Trends Brands"
+    }, 
+    "images" : [
+        "uploads/11435583956595.jpg", 
+        "uploads/21435583956602.jpg", 
+        "uploads/31435583956613.jpg"
+    ], 
+    "details" : {
+        "color" : "green", 
+        "structure" : [
+            "91% Polyester", 
+            "9% Elastane"
+        ], 
+        "sizes" : [
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(59), 
+        "oldPrice" : NumberInt(199), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559148a4a73ac20f8ab0c172"), 
+    "sku" : "99737", 
+    "title" : "Blue shorts", 
+    "description" : [
+        "Linen-mix fabric", 
+        "Unlined finish", 
+        "Concealed button fastening", 
+        "Zip fly", 
+        "Fixed belt ", 
+        "Back pockets may be tacked ", 
+        "Slim fit - cut closely to the body ", 
+        "Machine wash ", 
+        "52% Linen, 48% Viscose", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175cm/5'9 tall"
+    ], 
+    "brand" : "Anna Sinitsyna", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : " Blue shorts Anna Sinitsyna"
+    }, 
+    "images" : [
+        "uploads/11435584676245.jpg", 
+        "uploads/21435584676248.jpg", 
+        "uploads/31435584676249.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "52% Linen", 
+            "48% Viscose"
+        ], 
+        "sizes" : [
+            "40", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(79), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559148e1a73ac20f8ab0c173"), 
+    "sku" : "99738", 
+    "title" : "Blue shorts", 
+    "description" : [
+        "Unlined woven fabric", 
+        "High rise", 
+        "Zip fly", 
+        "Matching tie belt", 
+        "Side seam pockets", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "72% Polyester, 22% Viscose, 6% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 168 cm/5'6 tall"
+    ], 
+    "brand" : "Anna Sinitsyna", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Blue shorts Anna Sinitsyna"
+    }, 
+    "images" : [
+        "uploads/11435584737853.jpg", 
+        "uploads/21435584737856.jpg", 
+        "uploads/31435584737857.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "72% Polyester", 
+            "22% Viscose", 
+            "6% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(79), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914953a73ac20f8ab0c174"), 
+    "sku" : "100165", 
+    "title" : "Red shorts", 
+    "description" : [
+        "Woven fabric", 
+        "High-rise waist", 
+        "Belted waist with D-ring detail", 
+        "Hip pockets", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "76% Polyester, 18% Viscose, 6% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 168 cm/5'6 tall"
+    ], 
+    "brand" : "SEVONA", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Red shorts SEVONA"
+    }, 
+    "images" : [
+        "uploads/11435584851703.jpg", 
+        "uploads/21435584851759.jpg", 
+        "uploads/31435584851766.jpg"
+    ], 
+    "details" : {
+        "color" : "red", 
+        "structure" : [
+            "76% Polyester", 
+            "18% Viscose", 
+            "6% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(29), 
+        "oldPrice" : NumberInt(49), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("559149c5a73ac20f8ab0c175"), 
+    "sku" : "89725", 
+    "title" : "Blue shorts", 
+    "description" : [
+        "Non-stretch cotton denim", 
+        "Button and zip fly", 
+        "Functioning pockets", 
+        "Washed finish ", 
+        "Distressed detailing", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "100% Cotton", 
+        "Our model wears a UK 8/EU 36/US 4 and is 174cm/5'8.5 tall"
+    ], 
+    "brand" : "Form", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Blue shorts Form"
+    }, 
+    "images" : [
+        "uploads/11435584965291.jpg", 
+        "uploads/21435584965295.jpg", 
+        "uploads/31435584965298.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "100% Cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(24), 
+        "oldPrice" : NumberInt(35), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914a50a73ac20f8ab0c176"), 
+    "sku" : "89726", 
+    "title" : "Yellow shorts", 
+    "description" : [
+        "Woven denim", 
+        "Zip fly", 
+        "Raw hem", 
+        "Sun and moon patch pockets to back", 
+        "Slim fit - cut closely to the body", 
+        "Machine wash ", 
+        "100% Cotton", 
+        "Our model wears a UK 8/EU 36/US 4 and is 178 cm/5'10 tall"
+    ], 
+    "brand" : "Form", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Yellow shorts Form"
+    }, 
+    "images" : [
+        "uploads/11435585104347.jpg", 
+        "uploads/21435585104350.jpg", 
+        "uploads/31435585104352.jpg"
+    ], 
+    "details" : {
+        "color" : "yellow", 
+        "structure" : [
+            "100% Cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(29), 
+        "oldPrice" : NumberInt(35), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914acfa73ac20f8ab0c177"), 
+    "sku" : "89724", 
+    "title" : "Gray shorts", 
+    "description" : [
+        "Lightweight soft touch jersey ", 
+        "Elasticated high-rise waistband ", 
+        "Regular fit - true to size", 
+        "Machine wash ", 
+        "97% Viscose, 3% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 168 cm/5'6 tall"
+    ], 
+    "brand" : "Form", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Gray shorts Form"
+    }, 
+    "images" : [
+        "uploads/11435585231002.jpg", 
+        "uploads/21435585231005.jpg", 
+        "uploads/31435585231006.jpg"
+    ], 
+    "details" : {
+        "color" : "gray", 
+        "structure" : [
+            "97% Viscose", 
+            "3% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(24), 
+        "oldPrice" : NumberInt(35), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914b3ba73ac20f8ab0c178"), 
+    "sku" : "89682", 
+    "title" : "Orange shorts", 
+    "description" : [
+        "Lightweight, linen-mix fabric", 
+        "High-rise waist", 
+        "Hip pockets", 
+        "Zip back with concealed button closure", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "52% Linen, 48% Viscose", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175cm/5'9 tall"
+    ], 
+    "brand" : "ICHI", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Orange shorts ICHI"
+    }, 
+    "images" : [
+        "uploads/11435585338990.jpg", 
+        "uploads/21435585338995.jpg", 
+        "uploads/31435585338997.jpg"
+    ], 
+    "details" : {
+        "color" : "orange", 
+        "structure" : [
+            "52% Linen", 
+            "48% Viscose"
+        ], 
+        "sizes" : [
+            "40", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(79), 
+        "oldPrice" : NumberInt(269), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914badcb683c5a97cd6b4a"), 
+    "sku" : "87672", 
+    "title" : "Blue shorts", 
+    "description" : [
+        "Lightweight woven fabric", 
+        "Unlined construction", 
+        "Added stretch for comfort ", 
+        "Twin zip fastening", 
+        "Slim fit - cut closely to the body ", 
+        "Machine wash ", 
+        "70% Viscose, 26% Nylon, 4% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 175cm/5'9 tall"
+    ], 
+    "brand" : "Libellulas", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Blue shorts Libellulas"
+    }, 
+    "images" : [
+        "uploads/11435585453151.jpg", 
+        "uploads/21435585453157.jpg", 
+        "uploads/31435585453161.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "70% Viscose", 
+            "26% Nylon", 
+            "4% Elastane"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(18), 
+        "oldPrice" : NumberInt(36), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914c2fcb683c5a97cd6b4b"), 
+    "sku" : "71559", 
+    "title" : "Yellow shorts", 
+    "description" : [
+        "Printed woven fabric", 
+        "Stretch waistband", 
+        "Side pockets", 
+        "Tacked back pocket", 
+        "Relaxed fit", 
+        "Our model wears a UK 8/EU 36/US 4 and is 172cm/5'6.5 tall"
+    ], 
+    "brand" : "Loreak Mendian", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Yellow shorts Loreak Mendian"
+    }, 
+    "images" : [
+        "uploads/21435585583864.jpg", 
+        "uploads/11435585583861.jpg", 
+        "uploads/31435585583864.jpg"
+    ], 
+    "details" : {
+        "color" : "yellow", 
+        "structure" : [
+            "52% Linen", 
+            "48% Viscose"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(159), 
+        "oldPrice" : NumberInt(519), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914cc4cb683c5a97cd6b4c"), 
+    "sku" : "68095", 
+    "title" : "Beige shorts", 
+    "description" : [
+        "Soft-touch fabric", 
+        "Stretch waist", 
+        "Belted waistband with D-ring", 
+        "Hip pockets", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "65% Polyester, 30% Viscose, 5% Elastane", 
+        "Our model wears a UK S/ EU S/ US XS and is 175 cm/5'9 tall"
+    ], 
+    "brand" : "Libellulas", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Beige shorts Libellulas"
+    }, 
+    "images" : [
+        "uploads/11435585732745.jpg", 
+        "uploads/31435585732749.jpg", 
+        "uploads/21435585732747.jpg", 
+        "uploads/41435585732749.jpg"
+    ], 
+    "details" : {
+        "color" : "Beige", 
+        "structure" : [
+            "100% cotton"
+        ], 
+        "sizes" : [
+            "40", 
+            "42", 
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(190), 
+        "oldPrice" : NumberInt(329), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914d50cb683c5a97cd6b4d"), 
+    "sku" : "68087", 
+    "title" : "Beige shorts", 
+    "description" : [
+        "Stretch textured fabric", 
+        "All-over print", 
+        "High waisted design ", 
+        "Stretch waistband ", 
+        "Close cut bodycon fit ", 
+        "Machine wash ", 
+        "95% Polyester, 5% Elastane", 
+        "Our model wears a UK 8/EU 36/US 4 and is 178cm/5'10 tall"
+    ], 
+    "brand" : "Libellulas", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Beige shorts Libellulas"
+    }, 
+    "images" : [
+        "uploads/11435585872688.jpg", 
+        "uploads/21435585872696.jpg", 
+        "uploads/31435585872697.jpg", 
+        "uploads/41435585872703.jpg"
+    ], 
+    "details" : {
+        "color" : "beige", 
+        "structure" : [
+            "95% Polyester", 
+            "5% Elastane"
+        ], 
+        "sizes" : [
+            "44", 
+            "46"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(18), 
+        "oldPrice" : NumberInt(47), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("55914dd3cb683c5a97cd6b4e"), 
+    "sku" : "12867", 
+    "title" : "Blue shorts", 
+    "description" : [
+        "Lightweight crinkle fabric", 
+        "Semi-sheer finish", 
+        "Stretch waist with paperbag styling", 
+        "Tie belt", 
+        "Regular fit - true to size", 
+        "Machine wash", 
+        "100% Viscose", 
+        "Our model wears a UK 8/EU 36/US 4 and is 173 cm/5'8 tall"
+    ], 
+    "brand" : "Cheap Monday", 
+    "type" : "Shorts", 
+    "seo" : {
+        "title" : "Blue shorts Cheap Monday"
+    }, 
+    "images" : [
+        "uploads/11435586003615.jpg", 
+        "uploads/21435586003623.jpg", 
+        "uploads/31435586003626.jpg", 
+        "uploads/41435586003629.jpg"
+    ], 
+    "details" : {
+        "color" : "blue", 
+        "structure" : [
+            "100% Viscose"
+        ], 
+        "sizes" : [
+            "40"
+        ]
+    }, 
+    "pricing" : {
+        "price" : NumberInt(99), 
+        "oldPrice" : NumberInt(319), 
+        "inStock" : "10"
+    }, 
+    "__v" : NumberInt(0)
+}
