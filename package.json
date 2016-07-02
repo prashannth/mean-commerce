@@ -1,5 +1,5 @@
 {
-  "name": "mean-market",
+  "name": "mean-commerce",
   "version": "1.0.0",
   "description": "MEAN(MongoDB, ExpressJS, AngularJS & NodeJS) market e-commerce app",
   "main": "server.js",
@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/prashannth/mean-market"
+    "url": "https://github.com/prashannth/mean-commerce"
   },
   "keywords": [
     "node",
