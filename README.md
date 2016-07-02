@@ -1,4 +1,4 @@
-# MEAN Market
+# MEAN Commerce
 
 E-commerce shopping market application built with the MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS)
 
